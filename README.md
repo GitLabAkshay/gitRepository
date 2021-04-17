@@ -18,4 +18,10 @@ ls -la ---> to check hidden file
 
 git status
 
+git add .
 
+git commit -m"any message"
+
+git push
+
+# check
