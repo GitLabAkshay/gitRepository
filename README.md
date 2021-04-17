@@ -25,3 +25,8 @@ git commit -m"any message"
 git push
 
 # check
+
+user/akshay/.GitConfig ---> file to saveyour user
+
+
+
