@@ -31,9 +31,9 @@ ls -la ---> to check hidden file
 
 git status
 
-git add .
+git add .  ---> git restore 
 
-git commit -m"any message"
+git commit -m"any message"   ---> git reset --soft HEAD^
 
 git push
 
